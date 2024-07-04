@@ -1,0 +1,5 @@
+django
+djangorestframework
+django-blog
+djangorestframework-simplejwt
+djangorestframework-simplejwt-token-blacklist
